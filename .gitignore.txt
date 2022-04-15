@@ -1,0 +1,5 @@
+rules for gitignore
+save
+edit
+delete
+update
